@@ -1,6 +1,13 @@
 {
   "qq_number": "245754164",
   "group_number": "595583479",
-  "updated_at": "2026-11-23T04:08:06+00:00",
-  "skins": []
+  "updated_at": "2026-11-23T04:13:51+00:00",
+  "skins": [
+    {
+      "name": "阿眠`纯白少女（闷闷）",
+      "file": "阿眠纯白少女闷闷.bds",
+      "thumb": "阿眠纯白少女闷闷.bds_py_26_light_thumb.png",
+      "full": "阿眠纯白少女闷闷.bds_py_26_light_thumb.png"
+    }
+  ]
 }
