@@ -1,7 +1,7 @@
 {
   "qq_number": "245754164",
   "group_number": "595583479",
-  "updated_at": "2026-11-23T06:25:51+00:00",
+  "updated_at": "2026-11-23T06:29:44+00:00",
   "skins": [
     {
       "name": "阿眠`纯白少女（闷闷）",
@@ -69,6 +69,12 @@
       "thumb": "阿眠及川彻1.bdi_py_26_light_thumb.png",
       "full": "阿眠及川彻1.bdi_py_26_light_thumb.png",
       "file_id": "c640ed2e75834a6296e7a957d82fb1d4"
+    },
+    {
+      "name": "阿眠`百度皮",
+      "file": "阿眠及川彻2.bdi",
+      "thumb": "阿眠及川彻2.bdi_py_26_light_thumb.png",
+      "full": "阿眠及川彻2.bdi_py_26_light_thumb.png"
     }
   ]
 }
