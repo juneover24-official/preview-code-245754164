@@ -1,7 +1,7 @@
 {
   "qq_number": "245754164",
   "group_number": "595583479",
-  "updated_at": "2026-11-23T05:42:51+00:00",
+  "updated_at": "2026-11-23T05:47:46+00:00",
   "skins": [
     {
       "name": "阿眠`纯白少女（闷闷）",
@@ -27,6 +27,13 @@
       "thumb": "阿眠蕾丝猫耳少女闷.bds_py_26_light_thumb.png",
       "full": "阿眠蕾丝猫耳少女闷.bds_py_26_light_thumb.png",
       "file_id": "13fc408ca9bd51a9119be22f08b80aa6"
+    },
+    {
+      "name": "阿眠`蕾丝猫耳少女(脆)",
+      "file": "阿眠蕾丝猫耳少女脆.bds",
+      "thumb": "阿眠蕾丝猫耳少女脆.bds_py_26_light_thumb.png",
+      "full": "阿眠蕾丝猫耳少女脆.bds_py_26_light_thumb.png",
+      "file_id": "0de3ac822c83e074c83cbbaebf4fece7"
     }
   ]
 }
